@@ -1,0 +1,1 @@
+INSERT INTO `eliminate_fruit`.`level`(`id`, `one`, `two`, `three`, `four`, `five`, `six`, `seven`, `eight`, `init`, `uid`, `lv`) VALUES (1, 'HBBBSBBB', 'BBBBBBBB', 'BSBBBBBB', 'BBBBVBBB', 'BHBBBBBB', 'SBBBBSBB', 'BBBBBBBB', 'BBBBBBBB', 1, NULL, 1);
